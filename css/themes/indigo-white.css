@@ -1,8 +1,10 @@
 /* Theme */
 
 main {
-	background-image: url('back.jpeg');
+	background-image: url("back.jpeg");
 	color: #FAFAFA;
+	background-repeat: no-repeat;
+	background-size: 100% ;
 }
 
 .icons-social a {
